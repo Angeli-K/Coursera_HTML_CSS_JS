@@ -47,7 +47,6 @@ p {
   text-overflow: clip ellipsis;
 }
 
-/* Simple Responsive Framework. */
 
 div:nth-child(1) p:nth-child(1) {
   background-color: #B22222;
